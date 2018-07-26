@@ -14,6 +14,6 @@ I wasn't able to share all Azure experiments because of dataset size but you can
 *  [Car Price Linear Regression](https://gallery.cortanaintelligence.com/Experiment/Auto-Linear-Regression-on-6-19-2018)
 
 ### Big Data with Spark
-That folder contains Jupyter Notebooks which I created while doing the [course](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE230x+1T2018/course/) from UC San Diego.
+That folder contains Jupyter Notebooks which I worked on while doing a [course](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE230x+1T2018/course/) from UC San Diego.
 
 That course covers data manipulation using **Apache Spark Resilient Distributed Datasets and Data Frames using Python**, including data visualization and machine learning techniques as **K-Means, Decision Trees and Neural Networks.**
